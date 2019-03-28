@@ -17,7 +17,7 @@
         - 1.2.1 线性的递归和迭代：[Ex1.9](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_9.scm), [Ex1.10](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_10.scm)
         - 1.2.2 树形递归：[Ex1.11](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_11.scm), [Ex1.12](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_12.scm)
         - 1.2.3 增长的阶
-        - 1.2.4 求幂
+        - 1.2.4 求幂：[Ex1.16](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_16.scm), [Ex1.17](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_17.scm), [Ex1.18](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_18.scm), [Ex1.19](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_19.scm)
         - 1.2.5 最大公约数
         - 1.2.6 实例： 素数检测
     - 1.3 用高阶函数做抽象
@@ -129,5 +129,6 @@
 **注：**
 1. 所有代码均经过 Chez Scheme Version 9.5 测试，若有错误欢迎指正
 1. 受学习进程限制，之前的代码并未应用后续学习的更简洁明了高效的语法格式
+1. 非编程题未记录
 1. 代码中display部分只是为了打印输出，便于验证结果，与题目无关
 1. 代码最后部分exit只是为了自动退出，与题目无关
