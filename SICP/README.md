@@ -16,10 +16,10 @@
     - 1.2 过程与它们所产生的计算 
         - 1.2.1 线性的递归和迭代：[Ex1.9](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_9.scm), [Ex1.10](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_10.scm)
         - 1.2.2 树形递归：[Ex1.11](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_11.scm), [Ex1.12](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_12.scm)
-        - 1.2.3 增长的阶
+        - 1.2.3 增长的阶：[Ex1.14](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_14.scm), [Ex1.15](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_15.scm)
         - 1.2.4 求幂：[Ex1.16](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_16.scm), [Ex1.17](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_17.scm), [Ex1.18](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_18.scm), [Ex1.19](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_19.scm)
-        - 1.2.5 最大公约数
-        - 1.2.6 实例： 素数检测
+        - 1.2.5 最大公约数：[Ex1.20](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_20.scm)
+        - 1.2.6 实例： 素数检测：[Ex1.21](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_21.scm), [Ex1.22](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_22.scm), [Ex1.23](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_23.scm), [Ex1.24](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_24.scm), [Ex1.25](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_25.scm), [Ex1.26](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_26.scm), [Ex1.27](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_27.scm), [Ex1.28](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_28.scm)
     - 1.3 用高阶函数做抽象
         - 1.3.1 过程作为参数
         - 1.3.2 用 lambda 构造过程
