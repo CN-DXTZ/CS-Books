@@ -7,8 +7,7 @@
     (if (= b 0)
         (if (= flag 0)
             a
-            num
-        )
+            num)
         (gcd b (remainder a b) (+ num 1) flag)))
 
 (display (gcd 206 40 0 0))
