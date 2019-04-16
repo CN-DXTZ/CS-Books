@@ -2,7 +2,7 @@
 计算机程序的构造和解释
 -----
 
-目录：
+### 目录：
 - Ch1 构造过程抽象
     - 1.1 程序设计的基本元素
         - 1.1.1 表达式
@@ -21,10 +21,10 @@
         - 1.2.5 最大公约数：[Ex1.20](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_20.scm)
         - 1.2.6 实例： 素数检测：[Ex1.21](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_21.scm), [Ex1.22](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_22.scm), [Ex1.23](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_23.scm), [Ex1.24](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_24.scm), [Ex1.25](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_25.scm), [Ex1.26](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_26.scm), [Ex1.27](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_27.scm), [Ex1.28](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_28.scm)
     - 1.3 用高阶函数做抽象
-        - 1.3.1 过程作为参数
-        - 1.3.2 用 lambda 构造过程
-        - 1.3.3 过程作为一般性的方法
-        - 1.3.4 过程作为返回值
+        - 1.3.1 过程作为参数：[Ex1.29](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_29.scm), [Ex1.30](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_30.scm), [Ex1.31](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_31.scm), [Ex1.32](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_32.scm), [Ex1.33](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_33.scm)
+        - 1.3.2 用 lambda 构造过程：[Ex1.34](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_34.scm)
+        - 1.3.3 过程作为一般性的方法：[Ex1.35](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_35.scm), [Ex1.36](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_36.scm), [Ex1.37](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_37.scm), [Ex1.38](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_38.scm), [Ex1.39](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_39.scm)
+        - 1.3.4 过程作为返回值：[Ex1.40](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_40.scm), [Ex1.41](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_41.scm), [Ex1.42](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_42.scm), [Ex1.43](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_43.scm), [Ex1.44](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_44.scm), [Ex1.45](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_45.scm), [Ex1.46](https://github.com/CN-DXTZ/CS-Books/tree/master/SICP/answer/Ch1/1_46.scm)
 - Ch2 构造数据抽象
     - 2.1 数据抽象导引
         - 2.1.1 实例： 有理数的算术运算
@@ -126,9 +126,10 @@
         - 5.5.7 编译代码和求值器的互连
 
 
-**注：**
-1. 所有代码均经过 Chez Scheme Version 9.5 测试，若有错误欢迎指正
+### 注：
+1. 本文暂未完成，但所有已完成代码均经过 Chez Scheme Version 9.5 测试，若有错误欢迎指正
 1. 受学习进程限制，之前的代码并未应用后续学习的更简洁明了高效的语法格式
-1. 非编程题未记录
-1. 代码中display部分只是为了打印输出，便于验证结果，与题目无关
-1. 代码最后部分exit只是为了自动退出，与题目无关
+1. 只记录了编程题和文字分析题，作图题等少数题目并未记录
+1. 与题目无关：
+    - display部分只是为了打印输出，验证结果
+    - exit部分只是为了自动退出，与题目无关
